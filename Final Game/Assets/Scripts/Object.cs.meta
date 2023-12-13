@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3cee16f71d11da44b35e3a8fa67e2ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Circle2: {fileID: 3155623961488519420, guid: e8da2e11000a9f94db3bf24eea5adfb2, type: 3}
+  - Circle3: {instanceID: 0}
+  - Circle4: {instanceID: 0}
+  - Circle5: {instanceID: 0}
+  - Circle6: {instanceID: 0}
+  - Circle7: {instanceID: 0}
+  - Circle8: {instanceID: 0}
+  - Circle9: {instanceID: 0}
+  - Circle10: {instanceID: 0}
+  - Circle11: {instanceID: 0}
+  - collidedWith: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
